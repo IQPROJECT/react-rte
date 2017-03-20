@@ -1,3 +1,6 @@
 _*
 !__tests__
+/dist
+/lib
 /node_modules
+.idea
