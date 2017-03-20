@@ -16,7 +16,7 @@
   "dependencies": {
     "class-autobind": "^0.1.4",
     "classnames": "^2.2.5",
-    "draft-js": "erisnuts/draft-js",
+    "draft-js": "github:IQPROJECT/draft-js",
     "draft-js-export-html": "^0.5.1",
     "draft-js-export-markdown": "^0.2.2",
     "draft-js-import-html": "^0.3.2",
